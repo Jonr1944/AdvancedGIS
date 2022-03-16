@@ -1,6 +1,6 @@
 # About Me 
 
-My name is Jon Reisher and I am pursuing my masters degree in public policy and managment at Carnegie Mellon University. I am origionally from Washington State but have lived all over the United States. I enjoy doing anything outdoors including hiking, fishing, and skiing. I also enjoy sports such as baseball, American football, and rugby. I really enjoy traveling and my favorite place I have been to so far is Jordan.
+My name is Jon Reisher, and I am pursuing my master's degree in public policy and management at Carnegie Mellon University. I am origionally from Washington State but have lived all over the United States. I enjoy doing anything outdoors including hiking, fishing, and skiing. I also enjoy sports such as baseball, American football, and rugby. I really enjoy traveling and my favorite place I have been to so far is Jordan.
 
 I hope to one day work in international development space or for a policy related think tank. 
 
