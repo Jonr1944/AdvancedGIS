@@ -1,13 +1,15 @@
 # About Me 
 
-My name is Jon Reisher and I am pursuing my masters degree in public policy and managment at Carnegie Mellon University. I am origionally from Washington State but have lived all over the United States. I love to travel, hike, fish, read, and listen to music. 
+My name is Jon Reisher and I am pursuing my masters degree in public policy and managment at Carnegie Mellon University. I am origionally from Washington State but have lived all over the United States. I enjoy doing anything outdoors including hiking, fishing, and skiing. I also enjoy sports such as baseball, American football, and rugby. I really enjoy traveling and my favorite place I have been to so far is Jordan.
+
+I hope to one day work in international development space or for a policy related think tank. 
 
 [Link to My LinkdIn](https://www.linkedin.com/in/jonathan-reisher-11a74767/)
 
 
 ## What I hope to Learn!
 
-I hope to learn a lot more about geospatial analysis and how to create customizable maps. I really enjoyed the basic GIS class and used a number of my GIS skills in my summer internship as a researcher for #JustRecovery which is a study on the impact of COVID19 on margionalized communities in Toronto, Pittsburgh, and Atlanta. I was on the Toronto team. 
+I hope to learn a lot more about geospatial analysis and how to create customizable maps. I really enjoyed the basic GIS class and used several my GIS skills in my summer internship as a researcher for #JustRecovery which is a study on the impact of COVID19 on marginalized communities in Toronto, Pittsburgh, and Atlanta. I was on the Toronto team. One key area we tried to analyze was access to health care. For a variety of reasons health care related data is protected in Canada. However, using a basic walkability analysis around Toronto Hospitals and clinics and overlayed that on a polygon feature class of 'visibly black' population in Toronto demonstrated the immense lack of health care access for racial minorities. Having the capability to use geospatial analysis to fill in for a lack of data was immensely helpful for creating a well-rounded research project.
 
 ## Portfolio
 
