@@ -1,10 +1,13 @@
 # About Me 
 
+My name is Jon Reisher and I am pursuing my masters degree in public policy and managment at Carnegie Mellon University. I am origionally from Washington State but have lived all over the United States. I love to travel, hike, fish, read, and listen to music. 
+
+[Link to My LinkdIn](https://www.linkedin.com/in/jonathan-reisher-11a74767/)
 
 
 ## What I hope to Learn!
 
-
+I hope to learn a lot more about geospatial analysis and how to create customizable maps. I really enjoyed the basic GIS class and used a number of my GIS skills in my summer internship as a researcher for #JustRecovery which is a study on the impact of COVID19 on margionalized communities in Toronto, Pittsburgh, and Atlanta. I was on the Toronto team. 
 
 ## Portfolio
 
