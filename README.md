@@ -4,6 +4,8 @@ My name is Jon Reisher, and I am pursuing my master's degree in public policy an
 
 I hope to one day work in international development space or for a policy related think tank. 
 
+![me](Jon.jpg)
+
 [Link to My LinkdIn](https://www.linkedin.com/in/jonathan-reisher-11a74767/)
 
 
