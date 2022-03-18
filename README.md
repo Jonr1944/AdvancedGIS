@@ -21,4 +21,4 @@ I hope to learn a lot more about geospatial analysis and how to create customiza
 
 ### Google Map for Hello Neighbor
 
-[Click Here!](AdvancedGis/HWK1.md)
+[Click Here!](HWK1.md)
