@@ -4,9 +4,9 @@
 
 ## Creating a Color Palette
 
-![picture](Pictures/HelloNeighbor_Pic.jpeg)
+![picture](Pictures/HelloNeighbor_Pic.jpg)
 
-![Palette](Pictures/HelloNeighbor_ColorPalette.jpeg)
+![Palette](Pictures/HelloNeighbor_ColorPalette.jpg)
 
 ## Hello Neighbor Map
 
