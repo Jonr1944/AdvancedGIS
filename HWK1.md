@@ -1,6 +1,12 @@
 ## Hello Neighbor 
 
+[Hello Neighbor Website Link](https://www.helloneighbor.io/about)
+
 ## Creating a Color Palette
+
+![picture](Pictures/HelloNeighbor_Pic)
+
+![Palette](Pictures/HelloNeighbor_ColorPalette)
 
 ## Hello Neighbor Map
 
