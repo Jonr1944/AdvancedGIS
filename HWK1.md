@@ -2,7 +2,7 @@
 
 I choose Hello Neighbor because my wife and I volunteer with the organization mentoring a refugee family that arrived to Pittsburgh just prior to the pandemic in 2020. We have enjoyed spending time them, learning the Afghan culture, and sharing traditions. We have taken the family to Phipps Conservatory, played board games, learned how to cook Afghan food, and spent many hours drinking tea and talking. 
 
-__From the "About us Page on Hello Neighbor's Website:  
+__ From the "About us Page on Hello Neighbor's Website:  
 
 ### Our Mission
 
@@ -10,7 +10,7 @@ Hello Neighbor works to improve the lives of recently resettled refugee and immi
 
 ### Our Vision
 
-Hello Neighbor envisions a welcoming, inclusive, and vibrant Pittsburgh and America, whose newest neighbors can realize their dreams of success and prosperity. We aspire to see communities where everyone is valued for their diverse perspectives and are empowered to rebuild their lives with dignity and respect__
+Hello Neighbor envisions a welcoming, inclusive, and vibrant Pittsburgh and America, whose newest neighbors can realize their dreams of success and prosperity. We aspire to see communities where everyone is valued for their diverse perspectives and are empowered to rebuild their lives with dignity and respect __
 
 [Click on Hello Neighbor Website Link to Learn More!](https://www.helloneighbor.io/about)
 
