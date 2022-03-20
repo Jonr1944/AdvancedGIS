@@ -16,7 +16,7 @@ Hello Neighbor envisions a welcoming, inclusive, and vibrant Pittsburgh and Amer
 
 ## Creating a Color Palette
 
-I chose a picture from Hello Neighbor's webpage that encapsulated not on the mission of Hello Neighbor but also the central colors of the Hello Neighbor logo which are more pastel greens and blues. I also wanted a few colors like black or greys to have for background and to highlight man made features in a subtle way. I also wanted to make sure that I connected the map to the webpage thourh the use of color while ensure that the map would be user friendly. 
+I chose a picture from Hello Neighbor's webpage that encapsulated the mission of Hello Neighbor and the central colors of the Hello Neighbor logo, which are more pastel greens and blues. I also wanted a few colors like black or greys for the background and to highlight man-made features subtly. I also wanted to make sure that I connected the map to the web page through color while ensuring that the map would be user-friendly. 
 
 ![picture](Pictures/HelloNeighbor_Pic.jpg)
 
@@ -25,6 +25,8 @@ Below is the color palette created by [Canva's Color Palette Generator](https://
 ![Palette](Pictures/HelloNeighbor_ColorPalette.jpg)
 
 ## Hello Neighbor Map
+
+The map below is the final product for Hello Neighbor. I used the light green for parks and other public green spaces. The blue from the color palette was used to denote water and areas of interest to Hello Neighbor participants like museums, places of worship, and schools. The dark green was used for borders, side streets (to contrast against the white of major roads), and state highways. Finally, I used the grey from the color palette to denote manmade or built-up areas.
 
 ![Map](Pictures/HelloMap.jpg)
 
