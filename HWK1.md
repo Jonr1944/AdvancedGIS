@@ -12,7 +12,7 @@ Hello Neighbor works to improve the lives of recently resettled refugee and immi
 
 Hello Neighbor envisions a welcoming, inclusive, and vibrant Pittsburgh and America, whose newest neighbors can realize their dreams of success and prosperity. We aspire to see communities where everyone is valued for their diverse perspectives and are empowered to rebuild their lives with dignity and respect_
 
-[Click on Hello Neighbor Website Link to Learn More!](https://www.helloneighbor.io/about)
+[Click on the Hello Neighbor Website Link to Learn More!](https://www.helloneighbor.io/about)
 
 ## Creating a Color Palette
 
@@ -355,3 +355,5 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     async defer></script>
   </body>
 </html>
+
+[Return to Home](ReadMe.md)
