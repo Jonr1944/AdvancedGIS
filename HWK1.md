@@ -53,7 +53,7 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
           zoom: 15,  // Setting a zoom scale for Pittsburgh
           styles:    // Add JSON from Map Style Wizard below this line... 
       
-      [
+[
   {
     "elementType": "geometry",
     "stylers": [
@@ -350,10 +350,6 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
 ]
 
 
-// ..and here's the end of JSON from Style Wizard          
-        });
-      }
-// Don't forget your API Key below vv
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQ3oWa5ZpbHbUzZHwJB3Fl4ftxVojVNrM&callback=initMap"
     async defer></script>
