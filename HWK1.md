@@ -16,13 +16,19 @@ Hello Neighbor envisions a welcoming, inclusive, and vibrant Pittsburgh and Amer
 
 ## Creating a Color Palette
 
-I chose a picture from Hello Neighbor's webpage that encapsulated not on the mission of Hello Neighbor but also the central colors of the Hello Neighbor logo which are more pastel greens and blues. I also wanted a few colors like black or greys to have for background and to highlight man made features in a subtle way. 
+I chose a picture from Hello Neighbor's webpage that encapsulated not on the mission of Hello Neighbor but also the central colors of the Hello Neighbor logo which are more pastel greens and blues. I also wanted a few colors like black or greys to have for background and to highlight man made features in a subtle way. I also wanted to make sure that I connected the map to the webpage thourh the use of color while ensure that the map would be user friendly. 
 
 ![picture](Pictures/HelloNeighbor_Pic.jpg)
+
+Below is the color palette created by [Canva's Color Palette Generator](https://www.canva.com/colors/color-palette-generator/). It provided four different colors from the picture I took from the Hello Neighbor Website.
 
 ![Palette](Pictures/HelloNeighbor_ColorPalette.jpg)
 
 ## Hello Neighbor Map
+
+![Map](Pictures/HelloMap.jpg)
+
+
 
 <html>
   <head>
@@ -52,7 +58,6 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
           center: {lat: 40.4583498, lng: -80.079528},  // Setting the center to Pittsburgh, change as you like
           zoom: 15,  // Setting a zoom scale for Pittsburgh
           styles:    // Add JSON from Map Style Wizard below this line... 
-      
 [
   {
     "elementType": "geometry",
@@ -83,15 +88,6 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     "stylers": [
       {
         "color": "#2c2e1c"
-      },
-      {
-        "saturation": -45
-      },
-      {
-        "lightness": -30
-      },
-      {
-        "weight": 1
       }
     ]
   },
@@ -132,10 +128,18 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     ]
   },
   {
-    "featureType": "landscape",
+    "featureType": "landscape.man_made",
     "stylers": [
       {
-        "color": "#708534"
+        "color": "#dacfc8"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.natural",
+    "stylers": [
+      {
+        "color": "#708434"
       }
     ]
   },
@@ -153,9 +157,6 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     "stylers": [
       {
         "color": "#6bb6cb"
-      },
-      {
-        "weight": 4.5
       }
     ]
   },
@@ -165,15 +166,6 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     "stylers": [
       {
         "color": "#dfd2ae"
-      }
-    ]
-  },
-  {
-    "featureType": "poi",
-    "elementType": "labels.text",
-    "stylers": [
-      {
-        "color": "#6bb6cb"
       }
     ]
   },
@@ -194,13 +186,36 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
         "color": "#ffffff"
       },
       {
-        "saturation": -55
+        "saturation": -80
       },
       {
-        "lightness": -5
-      },
+        "weight": 2.5
+      }
+    ]
+  },
+  {
+    "featureType": "poi.attraction",
+    "stylers": [
       {
-        "weight": 1.5
+        "color": "#6bb6cb"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.attraction",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#6bb6cb"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.attraction",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#ffffff"
       }
     ]
   },
@@ -227,7 +242,7 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#f5f1e6"
+        "color": "#2c2e1c"
       }
     ]
   },
@@ -251,10 +266,19 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
   },
   {
     "featureType": "road.highway",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#2c2e1c"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
     "elementType": "geometry.stroke",
     "stylers": [
       {
-        "color": "#dacfc8"
+        "color": "#2c2e1c"
       }
     ]
   },
@@ -282,6 +306,14 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     "stylers": [
       {
         "color": "#806b63"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "stylers": [
+      {
+        "color": "#2c2e1c"
       }
     ]
   },
@@ -326,6 +358,9 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     "stylers": [
       {
         "color": "#6bb6cb"
+      },
+      {
+        "weight": 3.5
       }
     ]
   },
@@ -334,7 +369,7 @@ I chose a picture from Hello Neighbor's webpage that encapsulated not on the mis
     "elementType": "geometry.fill",
     "stylers": [
       {
-        "color": "#6bb6cb"
+        "color": "#b9d3c2"
       }
     ]
   },
