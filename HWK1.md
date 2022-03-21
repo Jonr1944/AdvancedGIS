@@ -30,6 +30,6 @@ The map below is the final product for Hello Neighbor. I used the light green fo
 
 ![Map](Pictures/HelloMap.jpg)
 
-[View an Active Versiion Here](ActiveMap.html)
+[View an Active Version Here](ActiveMap.html)
 
 [Return to Home](README.md)
