@@ -25,4 +25,4 @@ I hope to learn more about geospatial analysis and how to create customizable ma
 
 ### Ottawa Cycling Dashboad
 
-[Click Here!](Cycling.html)
+[Click Here!](cycling.html)
